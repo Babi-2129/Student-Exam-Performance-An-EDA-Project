@@ -1,0 +1,7 @@
+1. Students whose parents have a master's degree tend to perform better, especially in math.
+2. Test preparation course is linked with higher scores in reading and writing.
+3. Males tend to score higher in math; females in reading and writing.
+4. Students with standard lunch generally outperform those with free/reduced lunch.
+5. Strong correlation exists among all three subjects (math, reading, writing).6. Students who completed the test preparation course scored higher across all subjects.
+7. The distribution of scores is generally normal, with some outliers.
+8. The majority of students are from a standard lunch background, which correlates with higher scores.
